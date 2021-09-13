@@ -91,7 +91,7 @@ reactive.feign.hystrix.enabled: false
 logging:
   level:
     root: WARN
-    org.springframework: ERROR
+    org.springframework: INFO
     org.springframework.cloud.bus: INFO
     org.springframework.retry: INFO
     # geoserver roots

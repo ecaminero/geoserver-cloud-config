@@ -5,5 +5,5 @@ spring:
 
 logging:
   level:
-    root: WARN
+    root: INFO
     org.springframework.cloud.config.server.environment.NativeEnvironmentRepository: WARN
