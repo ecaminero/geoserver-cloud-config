@@ -76,6 +76,6 @@ spring:
 
 logging:
   level:
-    root: INFO
-    com.netflix.discovery: INFO
-    com.netflix.eureka: INFO
+    root: DEBUG
+    com.netflix.discovery: DEBUG
+    com.netflix.eureka: DEBUG
