@@ -76,6 +76,6 @@ spring:
 
 logging:
   level:
-    root: WARN
-    com.netflix.discovery: WARN
-    com.netflix.eureka: WARN
+    root: INFO
+    com.netflix.discovery: INFO
+    com.netflix.eureka: INFO
